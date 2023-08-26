@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.sqlite3
+*.db
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Compiled translations
+locale/
+
+# Ignore migration files, except for __init__.py
+**/migrations/!(__init__).py
