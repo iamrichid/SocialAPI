@@ -44,8 +44,4 @@ This repository contains the backend implementation of a social media applicatio
 - `/group-memberships/`: Manage group memberships.
 - `/followers/` and `/following/`: List followers and following.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, and suggest improvements.
